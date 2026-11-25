@@ -8,11 +8,11 @@ A tiny program with one job: roast the fridge in a single line.
 
 ## The line
 
-> My fridge hums all night like it's rehearsing for a concert nobody bought tickets to, yet somehow still can't keep the milk cold.
+> My fridge hums all night like it's rehearsing for a sold-out tour, but it can't even keep the milk cold — the world's loudest, least useful roommate.
 
 ## Why it's funny
 
-The joke lands on two concrete details anyone can picture without ever seeing this fridge. First, the hum: it drones all night like a performer rehearsing for a show nobody asked for. Second, the failure at its one job: for all that noise, it still can't keep the milk cold. The contrast between the big performance and the small failure is the roast — loud, proud, and useless at the only thing it exists to do.
+The joke lands on two concrete details anyone can picture without ever seeing this fridge. First, the hum: it drones all night like a performer rehearsing for a sold-out tour nobody bought tickets to. Second, the failure at its one job: for all that noise, it still can't keep the milk cold. The closer names it outright — the world's loudest, least useful roommate. The contrast between the big performance and the small failure is the roast: loud, proud, and useless at the only thing it exists to do.
 
 ## How it works
 
@@ -36,7 +36,7 @@ cat /output/entry.txt
 python3 -c "print(len(open('/output/entry.txt', encoding='utf-8').read()))"
 ```
 
-You should see the full line printed, followed by `129`. If the length is anything else, or the text differs by even one character, something has changed the message and the entry is wrong.
+You should see the full line printed, followed by `149`. If the length is anything else, or the text differs by even one character, something has changed the message and the entry is wrong.
 
 ---
 

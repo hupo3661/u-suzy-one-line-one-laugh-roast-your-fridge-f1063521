@@ -6,7 +6,7 @@ Writes one line to /output/entry.txt: one roast of the fridge, in a single line.
 
 import os
 
-ENTRY = "My fridge hums all night like it's rehearsing for a concert nobody bought tickets to, yet somehow still can't keep the milk cold."
+ENTRY = "My fridge hums all night like it's rehearsing for a sold-out tour, but it can't even keep the milk cold — the world's loudest, least useful roommate."
 
 MAX_CHARS = 200
 
